@@ -18,5 +18,6 @@ public class bonus {
 
 
     //MUPTİPLE İNHERİTANCE : bir ana clas ın extend edeni extend etmeye denir (kendi yorumum).
+    // hello world 
 
 }
